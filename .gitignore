@@ -1,0 +1,14 @@
+# Public repo. Nothing sensitive ever, by construction.
+*.bin
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+*.secret
+id_rsa*
+*credential*.xml
+*.cred
+.DS_Store
+*.swp
+*~
